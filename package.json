@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bax-sp/nodemysql/issues"
   },
-  "homepage": "https://github.com/bax-sp/nodemysql#readme"
+  "homepage": "https://github.com/bax-sp/nodemysql#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
